@@ -36,8 +36,13 @@ Make sure the following are installed:
 
 ## ▶️ Running the Simulation
 
-### Option 1: Launch Files (Step-by-Step)
+### Launch Files (Step-by-Step)
 ```bash
 ros2 launch arduinobot_description gazebo.launch.py
 ros2 launch arduinobot_controller controller.launch.py
 ros2 launch arduinobot_moveit moveit.launch.py
+
+### Script Launch -
+```bash
+ros2 run arduinobot_moveit simple_moveit_interface
+
