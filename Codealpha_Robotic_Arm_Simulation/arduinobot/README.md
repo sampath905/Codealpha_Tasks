@@ -42,7 +42,6 @@ ros2 launch arduinobot_description gazebo.launch.py
 ros2 launch arduinobot_controller controller.launch.py
 ros2 launch arduinobot_moveit moveit.launch.py
 
-### Script Launch -
-```bash
+### Script Launch
 ros2 run arduinobot_moveit simple_moveit_interface
 
