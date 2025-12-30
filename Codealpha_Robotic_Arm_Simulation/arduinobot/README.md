@@ -41,8 +41,5 @@ Make sure the following are installed:
 ros2 launch arduinobot_description gazebo.launch.py
 ros2 launch arduinobot_controller controller.launch.py
 ros2 launch arduinobot_moveit moveit.launch.py
-
-Launch script -
-
 ros2 run arduinobot_moveit simple_moveit_interface
 
