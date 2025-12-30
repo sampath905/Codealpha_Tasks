@@ -7,13 +7,13 @@ This repository contains all projects and tasks completed during my
 
 ## 📂 Projects
 
-### 🔹 [Autonomous Vehicles and Drones]
+### 🔹 [Autonomous Vehicles and Drones](./Codealpha_Tasks/Codealpha_Autonomous_vehicles_%26_Drones/)
 A comprehensive study of autonomous mobility systems using **Artificial Intelligence, sensor fusion, SLAM, and ROS**.  
 The project covers system architecture, real-world applications, limitations, and future research trends in autonomous transportation and UAV systems.
 
 ---
 
-### 🔹 [6-DOF Robotic Arm Simulation]
+### 🔹 [6-DOF Robotic Arm Simulation](./Codealpha_Tasks/Codealpha_Robotic_Arm_Simulation/arduinobot/)
 Simulation and control of a **6-Degree-of-Freedom robotic arm** using **ROS 2 Humble, MoveIt, and Ignition Gazebo**.  
 The robotic arm performs predefined motion poses based on **user input (1–9)** through a **C++ control interface**, demonstrating motion planning and manipulation.
 
